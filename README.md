@@ -47,6 +47,7 @@ def create_character(name, strength, intelligence, charisma):
     if strength + intelligence + charisma != 7:
         return 'The character should start with 7 points'
     return f"{name}\nSTR {'●' * strength}{'○' * (10 - strength)}\nINT {'●' * intelligence}{'○' * (10 - intelligence)}\nCHA {'●' * charisma}{'○' * (10 - charisma)}"
+
 print(create_character("ren", 4, 2, 1)) #Example run
 #Output
 ren
