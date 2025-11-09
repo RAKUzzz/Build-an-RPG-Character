@@ -66,5 +66,5 @@ CHA ●○○○○○○○○○
 ---
 
 ## ✨ Author
-Methawin Srivilai  
+RAKUzzz  
 Built as part of my Python learning journey toward becoming a Software Engineer.
